@@ -1,0 +1,7 @@
+working_dir: ['Desktop', 'sentinel-1', 'earthquake']
+copernicus_id: 'ahyun99'
+copernicus_pw: 'tjdehddlr1'
+time_delta: 10
+min_magnitude: 6
+download_type: 
+  - SLC
